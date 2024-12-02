@@ -18,21 +18,17 @@ In bold are languages that I know.
 
 Done:
 - __Python__ 
+- Elixir
 
 Ideas:
-- __PHP__
 - __C/C++__
 - __Java__
 - __JS__
 - __TS__
 - __ASM (x86 - NASM)__
 - Rust
-- Elixir
 - Haskell
 - Zig
-- COBOL
-- C#
-- Kotlin
 - R
 - Scala
 - Pearl
@@ -40,16 +36,8 @@ Ideas:
 - GO
 - Ruby
 - Shell
-- ALGOL
-- Pascal
-- VisualBasic
-- OCaml
 - Lua
 - Groovy
-- Obj-C
 - Julia
-- D
-- F#
-- Fortran
 
 
