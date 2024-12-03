@@ -2,9 +2,8 @@
 
 ## My solutions to the AoC 2024
 
-For this AoC, I want to try some new languages but I don't really have the time
-for that. I can't challenge myself to change language every day, but I'll try
-
+For this AoC, I want to try some new languages and discover funtional
+programming but I don't really have the time for that. 
 ## Quick start
 
 The directories `Day*` contain all the code and examples to solve the problem. 
